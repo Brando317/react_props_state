@@ -49,4 +49,4 @@ Template for React exercises
 3. Add `props.color` as the span text content
 4. Lastly, add a `backgroundColor` property to the inline-styling of the return div, and assign it `prop.color`
 
-- Your finished product should display 24 squares on the DOM, all with random color values. Each square's background color should randomize when you click on it.
+- Your finished product should display 24 squares on the DOM, all with random color values. Each square's background color should randomize when you click on it."# React2" 
